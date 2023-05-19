@@ -5,3 +5,5 @@ Basic stringboot rest security(Api) restrictions based on roles,Id and JDBC auth
 8. spring-boot-spring-mvc-security-display-content-based-on-roles
 9. spring-boot-spring-mvc-security-authentication-plain-text
 10.  spring-boot-spring-mvc-security-authentication-bcrypt-encryption
+- The Sql-scripts will have to be uploaded into a DB case study Mysql Workbench
+- check application properties for sql configuration
